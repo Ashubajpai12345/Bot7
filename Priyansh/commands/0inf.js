@@ -32,7 +32,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 𝔸𝕤𝕙𝕦 𝕡𝕒𝕟𝕕𝕚𝕥💔🥀
 
-🙈bot andmin owner facebook id link🙈➪ www.facebook.com/priyanshu.rajput.official 💞🕊️
+🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/tte.970122/(ANSHUPANDIT) 💞🕊️
 
 👋For Any Kind Of Help Contact On Telegram  Username🙂
 
