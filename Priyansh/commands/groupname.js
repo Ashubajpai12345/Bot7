@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
 	description: "Rename your group",
 	commandCategory: "Box", 
-	usages: "groupname [F9TIM9 KI CHU7🩷🥴]", 
+	usages: "groupname [name]", 
 	cooldowns: 0,
 	dependencies: [] 
 };
